@@ -6,6 +6,12 @@
 
 ### Debes escribir los siguientes comandos en la terminal para correr el proyecto:
 
-Instalamos todas las dependencias listadas en el archivo package.json: *_npm install_*
+Instalamos todas las dependencias listadas en el archivo package.json: 
+```
+*_npm install_*
+```
 
-Corremos nuestro proyecto con el siguiente script: *_npm run dev_*
+Corremos nuestro proyecto con el siguiente script: 
+```
+*_npm run dev_*
+```
