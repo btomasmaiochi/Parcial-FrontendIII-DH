@@ -8,10 +8,10 @@
 
 Instalamos todas las dependencias listadas en el archivo package.json: 
 ```
-*_npm install_*
+npm install
 ```
 
 Corremos nuestro proyecto con el siguiente script: 
 ```
-*_npm run dev_*
+npm run dev
 ```
