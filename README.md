@@ -7,7 +7,7 @@
 ### Debes escribir los siguientes comandos en la terminal para correr el proyecto:
 
 Instalamos todas las dependencias listadas en el archivo package.json 
-1) npm install
+*_npm install_*
 
 Corremos nuestro proyecto con el siguiente script
-2) npm run dev
+*_npm run dev_*
